@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a",
+    "type": "multi_gauss",
+    "label": 0,
+    "lower": -1.0,
+    "upper": 1.0,
+    "n": 10,
+    "y_pos": 0.0,
+    "sigma": 0.1,
+    "weights": [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+    "weight_delta": 0.0,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "feedback_type": [0, 0, 0, 0]
+  },
+  {
+    "id": "b",
+    "type": "multi_gauss",
+    "label": 1,
+    "lower": -1.0,
+    "upper": 1.0,
+    "n": 10,
+    "sigma": 0.1,
+    "weights": [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+    "weight_delta": 0.0,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "feedback_type": [0, 0, 0, 0]
+  }
+]

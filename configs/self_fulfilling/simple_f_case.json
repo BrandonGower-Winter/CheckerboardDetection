@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a",
+    "type": "gauss",
+    "label": 0,
+    "x_pos": 0.25,
+    "y_pos": 0.0,
+    "sigma": 0.2,
+    "weight": 1.0,
+    "weight_delta": 0.001,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "y_drift": 0.0,
+    "feedback_type": [1, 0, 0, 0],
+    "decay_feedback": true
+  },
+  {
+    "id": "b",
+    "type": "gauss",
+    "label": 1,
+    "x_pos": 0.2,
+    "y_pos": 0.0,
+    "sigma": 0.25,
+    "weight": 1.0,
+    "weight_delta": 0.001,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "y_drift": 0.0,
+    "feedback_type": [1, 0, 0, 0],
+    "decay_feedback": true
+  },
+  {
+    "id": "c",
+    "type": "gauss",
+    "label": 1,
+    "x_pos": 0.75,
+    "y_pos": 0.0,
+    "sigma": 0.2,
+    "weight": 1.0,
+    "weight_delta": 0.001,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "y_drift": 0.0,
+    "feedback_type": [1, 0, 0, 0],
+    "decay_feedback": true
+  },
+  {
+    "id": "d",
+    "type": "gauss",
+    "label": 0,
+    "x_pos": 0.75,
+    "y_pos": 0.0,
+    "sigma": 0.2,
+    "weight": 1.0,
+    "weight_delta": 0.001,
+    "move_delta": 0.0,
+    "x_drift": 0.0,
+    "y_drift": 0.0,
+    "feedback_type": [1, 0, 0, 0],
+    "decay_feedback": true
+  }
+]
