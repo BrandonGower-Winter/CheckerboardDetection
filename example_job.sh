@@ -20,5 +20,5 @@ source ./venv/bin/activate
 # Examples:
 # python -m pip install requirements.txt
 
-python3 -m python ./src/main.py -n 50 -f 1.0 --tau 1000 --config ./configs/self_defeating/default.json -o 0001.json --debug
+python3 -m ./src/main.py -n 50 -f 1.0 --tau 1000 --config ./configs/self_defeating/default.json -o 0001.json --debug
 echo 'Finished computation.'
